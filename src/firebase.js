@@ -5,12 +5,14 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAVHSFZNid6auqODzLOgCU5ivjMHXA2W_o",
-  authDomain: "imageupload-7ab02.firebaseapp.com",
-  projectId: "imageupload-7ab02",
-  storageBucket: "imageupload-7ab02.appspot.com",
-  messagingSenderId: "935169529297",
-  appId: "1:935169529297:web:b2866bb5faced6cb907cf0"
+  apiKey: "AIzaSyC6TPC5XdrTQx1iYo8VKdje99Y5Mx4Ot1w",
+  authDomain: "salanika.firebaseapp.com",
+  databaseURL: "https://salanika-default-rtdb.firebaseio.com",
+  projectId: "salanika",
+  storageBucket: "salanika.appspot.com",
+  messagingSenderId: "209397203869",
+  appId: "1:209397203869:web:b35f066f7fc46786e86574",
+  measurementId: "G-74D1GSTNW8"
 };
 
 // Initialize Firebase
